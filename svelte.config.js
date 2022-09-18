@@ -9,7 +9,7 @@ const config = {
         }),
         paths: {
             // change below to your repo name
-            base: "/ullis.cool",
+            base: "/ullis-cool",
         }
     }
 };
