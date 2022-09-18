@@ -1,2 +1,7 @@
-<h1>ullis.cool</h1>
-<p>yup</p>
+<script>
+    import Intro from '$lib/Intro.svelte'
+    import Section from '$lib/Section.svelte';
+</script>
+
+<Intro />
+<Section />
