@@ -1,5 +1,4 @@
 import adapter from "@sveltejs/adapter-static"; 
-// was "@sveltejs/adapter-auto"
 
 const dev = "production" === "development";
 
