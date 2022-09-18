@@ -1,7 +1,7 @@
 <div class="wrapper">
     <div class="container">
         <span class="happy-face">:)</span>
-        <h1>ullis.cool, very good developer</h1>
+        <h1>I'm a developer that loves data visualization & being creative, while also getting things done.</h1>
         <p>Scroll down to continue <span class="underscore">_</span></p>
     </div>
 </div>
@@ -24,7 +24,8 @@
         display: flex;
 		flex-direction: column;
 		justify-content: center;
-        max-width: 700px;
+        max-width: 650px;
+        padding: 0 1rem;
     }
 
     .happy-face {
@@ -33,7 +34,7 @@
     }
 
 	h1 {
-		font-size: 3rem;
+		font-size: 1.75rem;
 	}
 
 	@keyframes cursor-blink {
